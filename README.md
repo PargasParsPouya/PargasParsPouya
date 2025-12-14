@@ -157,6 +157,8 @@ After completion, full training on using the admin panel and system components i
   Penetration testing and system security assessment.
 * **Sentry**
   Error tracking and performance monitoring.
+* **Wazuh**
+  Open-source SIEM and XDR platform for real-time security monitoring, log analysis, intrusion detection, file integrity monitoring, and compliance management across servers, containers, and cloud environments.
 
 ## Virtualization
 
